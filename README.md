@@ -1,6 +1,6 @@
 # Machine Learning
 
-This is a repo for machine learning study.
+This is a repo for my early studies of machine learning.
 
 ## The Process
 
